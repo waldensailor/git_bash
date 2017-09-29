@@ -1,4 +1,4 @@
 git is a version control system.
 my name is churen tyan
 Git is free software.
-python is my favorte language
+Python is my favorte language
